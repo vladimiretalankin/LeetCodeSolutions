@@ -1,3 +1,4 @@
+#118
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         output = [[1]]
